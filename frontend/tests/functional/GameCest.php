@@ -4,7 +4,7 @@ namespace frontend\tests\functional;
 
 use frontend\tests\FunctionalTester;
 
-class PlayCest
+class GameCest
 {
     protected $formId = '#play-game';
 
